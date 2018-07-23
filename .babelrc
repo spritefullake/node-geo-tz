@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    ["rewrite-require", {
+      "aliases": {
+        "fs": "expo/src/FileSystem"
+      }
+    }]
+  ]
+}
